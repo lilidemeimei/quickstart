@@ -1,0 +1,27 @@
+# Eclipse
+.project
+.classpath
+.settings
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea
+
+#VSCode
+.vscode/
+.factorypath
+
+# Build targets
+target
+
+# Python
+*.pyc
+*.pyo
+
+# JVM crash logs
+hs_err_pid*.log
+
+# Mac
+.DS_Store
