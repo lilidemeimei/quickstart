@@ -90,7 +90,7 @@ under the License.
         <dependency>
             <groupId>com.google.protobuf</groupId>
             <artifactId>protobuf-java</artifactId>
-            <version>3.6.1</version>
+            <version>3.16.3</version>
         </dependency>
         <!-- redis包引入 -->
         <dependency>
@@ -132,7 +132,7 @@ under the License.
         <dependency>
             <groupId>com.google.protobuf</groupId>
             <artifactId>protobuf-java</artifactId>
-            <version>3.6.1</version>
+            <version>3.16.3</version>
         </dependency>
         <!--<dependency>-->
             <!--<groupId>io.grpc</groupId>-->
@@ -167,7 +167,7 @@ under the License.
         <dependency>
             <groupId>com.google.protobuf</groupId>
             <artifactId>protobuf-java</artifactId>
-            <version>3.7.0</version>
+            <version>3.16.3</version>
         </dependency>
     </dependencies>
 
